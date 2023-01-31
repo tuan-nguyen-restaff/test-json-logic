@@ -328,6 +328,7 @@ async function addMasterDataFromLogicRule(cvcData, logic, data, properties) {
 
 
 module.exports = {
+  flatProperties,
   convertDataType,
   structureJsonLogicRule,
   addMasterDataFromLogicRule
